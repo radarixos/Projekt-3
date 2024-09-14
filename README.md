@@ -34,8 +34,11 @@ Spusteni souboru
 
 Vysledky pro Benesov:
 1.argument <odkaz-uzemniho-celku>: https://volby.cz/pls/ps2017nss/ps32?xjazyk=CZ&xkraj=2&xnumnuts=2101
+
 ampersand (&) issue ?
 URL po uprave : `https://volby.cz/pls/ps2017nss/ps32?xjazyk=CZ"&"xkraj=2"&"xnumnuts=2101`
+
 2.agrument  <vysledny-soubor>: `volby_benesov`
 
+# buh vi co to bude delat...
 `python projekt_3.py https://volby.cz/pls/ps2017nss/ps32?xjazyk=CZ"&"xkraj=2"&"xnumnuts=2101 volby_benesov benesov.csv`

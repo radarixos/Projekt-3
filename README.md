@@ -13,13 +13,14 @@ Např. Benešov https://volby.cz/pls/ps2017nss/ps32?xjazyk=CZ&xkraj=2&xnumnuts=2
 
 Z tohoto odkazu chcete vyscrapovat výsledky hlasování pro všechny obce a ulozit je do souboru csv <benesov.csv>.
 
-Ve výstupu (benesov.csv) každý řádek obsahuje informace pro konkrétní obec. Tedy podobu:
-    kód obce
-    název obce
-    voliči v seznamu
-    vydané obálky
-    platné hlasy
-    kandidující strany (co sloupec, to počet hlasů pro stranu pro všechny strany).
+Ve výstupu (benesov.csv) každý řádek obsahuje informace pro konkrétní obec.
+Tedy podobu:
+- kód obce
+- název obce
+- voliči v seznamu
+- vydané obálky
+- platné hlasy
+- kandidující strany (co sloupec, to počet hlasů pro stranu pro všechny strany).
 
 Knihovny v souboru `requirements.txt`.
 

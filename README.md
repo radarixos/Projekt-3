@@ -24,6 +24,14 @@ Tedy podobu:
 
 Knihovny v souboru `requirements.txt`.
 
+`.\venv\Scripts\activate`
+
+`pip install requests beautifulsoup4`
+
+`pip freeze > requirements.txt`
+
+`pip install -r requirements.txt`
+
 Virtualni prostredi s managerem:
 `pip --version`
 `pip install -r requirements.txt`

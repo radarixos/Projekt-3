@@ -21,7 +21,8 @@ Ve výstupu (benesov.csv) každý řádek obsahuje informace pro konkrétní obe
     platné hlasy
     kandidující strany (co sloupec, to počet hlasů pro stranu pro všechny strany).
 
-Knihovny v souboru `requirements.txt`. 
+Knihovny v souboru `requirements.txt`.
+
 Virtualni prostredi s managerem:
 `pip --version`
 `pip install -r requirements.txt`

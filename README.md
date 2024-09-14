@@ -8,7 +8,9 @@ Urcen k vytezeni vysledku voleb v CR z roku 2017 v okrese Benesov.
 
 # Zadani projektu:
 Napiš takový skript, který vybere jakýkoliv územní celek z tohoto odkazu https://volby.cz/pls/ps2017nss/ps3?xjazyk=CZ
+
 Např. Benešov https://volby.cz/pls/ps2017nss/ps32?xjazyk=CZ&xkraj=2&xnumnuts=2101 aka <odkaz_uzemniho_celku>.
+
 Z tohoto odkazu chcete vyscrapovat výsledky hlasování pro všechny obce a ulozit je do souboru csv <benesov.csv>.
 
 Ve výstupu (benesov.csv) každý řádek obsahuje informace pro konkrétní obec. Tedy podobu:

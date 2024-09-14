@@ -41,4 +41,9 @@ URL po uprave : `https://volby.cz/pls/ps2017nss/ps32?xjazyk=CZ"&"xkraj=2"&"xnumn
 2.agrument  <vysledny-soubor>: `volby_benesov`
 
 # buh vi co to bude delat...
-`python projekt_3.py https://volby.cz/pls/ps2017nss/ps32?xjazyk=CZ"&"xkraj=2"&"xnumnuts=2101 volby_benesov benesov.csv`
+- `python projekt_3.py https://volby.cz/pls/ps2017nss/ps32?xjazyk=CZ"&"xkraj=2"&"xnumnuts=2101 volby_benesov benesov.csv`
+
+nebo
+
+- `python projekt_3.py "https://volby.cz/pls/ps2017nss/ps32?xjazyk=CZ&xkraj=2&xnumnuts=2101" volby_benesov benesov.csv`
+

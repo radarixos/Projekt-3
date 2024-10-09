@@ -4,7 +4,7 @@
 Treti projekt - Python akademie Engeto
 
 Urcen k vytezeni vysledku voleb v CR z roku 2017 v okrese Benesov.
--`https://volby.cz/pls/ps2017nss/ps3?xjazyk=CZ`
+- `https://volby.cz/pls/ps2017nss/ps3?xjazyk=CZ`
 
 # Zadani projektu:
 Napiš takový skript, který vybere jakýkoliv územní celek z tohoto odkazu https://volby.cz/pls/ps2017nss/ps3?xjazyk=CZ
